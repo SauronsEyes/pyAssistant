@@ -1,4 +1,4 @@
-# pyAssistant by Sudesh
+# pyAssistant
 
 Interactive Voice Controlled Assistant BOT
 
